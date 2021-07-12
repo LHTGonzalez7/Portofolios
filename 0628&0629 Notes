@@ -1,0 +1,71 @@
+## 0628 Notes
+
+**Training for markdown using**
+- Shortcuts ctrl+shift+M preview
+- Purchase books about HTML
+  + Get started with thin books
+
+
+**Training for info searching on websites**
+- Use the keyboard up and down, page up and down instead of the mouse to increase the speed of retrieval
+- Do not use the mouse to click the maximize and minimize buttons, click on the upper blank part of the window
+
+- Procedures list in README.md (e.g.)
+
+- [Entry for searching "Abcream"](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html)
+  + http://app1.nmpa.gov.cn/data_nmpa/face3/base.jsp?tableId=25&tableName=TABLE25&title=%B9%FA%B2%FA%D2%A9%C6%B7&bcId=152904713761213296322795806604
+
+- Familiar with markdown syntax（too slow）
+- Shortcuts command+tab switch applications rapidly
+- Use cascade windows to view the open files（applications） on the desktop completely
+- Open terminal in folder Directory command+B
+
+
+**How to use Excel**
+- Never merge the cell
+
+- Excel number formats
+  + Numeric align right
+  + (') for text  align left (无需调整)
+  + date & time
+- Excel formulas
+  + COUNTIF is an Excel function to count cells in a range that meet a single condition.
+  + CHISQ chi-square
+---
+
+
+## 0629 Notes
+
+**Training for Zettlr using**
+- Pay attention to the file extension when saving
+- Only use Zettlr for making md. file
+- Tips for using Zettlr
+  + When searching in PubMed, select all the search results, copy and paste them into Zettlr, and generate the md. format of the URL link of the articles
+  + 折纸箭头图标 Export files in other formats.
+  + 眼睛图标 Toggle readability mode
+  + Explore other skills by myself
+
+**Training for searching on PubMed**
+- keywords 检索时如检索不到商品名，检索英文名中的关键词
+  + IL-8，Clinical trial，Phase 3 or 4
+  + No Chinese articles
+
+
+**Other keypoints**
+- [Github homepage of Hongtu Liu](hotliu.github.io)
+- egrep 用于在文件内查找指定的字符串
+- For books about Shell, borrow from Zhang Li
+- Establish the concept of database
+  + SQL Access
+- Collate notes in one hour
+
+
+
+**Assignments**
+
+1. 系统dock整理 Done.
+2. Abcream目录整理，整理完打包发送 Finished today.
+3. Mac技巧整理 Ongoing.
+4. Sign up Github and NCBI Finished today.
+5. Prepare an Android phone without sim card. Done.
+---

@@ -1,0 +1,25 @@
+## 0625 Notes
+
+1. How to use word
+
+- web视图 可缩放窗口自适应浏览文字，仅考虑文本输入时较为适合 wrap 换行
+- single click 确定位置， double click line， triple click paragraph
+- shortcuts command+Z 撤销 command+Y 重复上一步 start to end 可达任意节点
+- 自定义工具栏 自行选用常用功能 批注
+- 布局menu 加行号（5行） 页码
+- 加标尺
+- 表格属性 文字环绕设定为无环绕 command+enter 跨页
+
+2. Specification of projects
+
+- Name 文件名头部用英文 便于浏览和检索 terminal
+- Format
+    - xxx.Info Hyperlinks & Forms，Contents
+    - README.md Hyperlinks & keywords in cn en jp
+    - Ref Materials
+- Give up using folders，use directory 在寻找文件时使用目录视图
+
+3. Mac OSX default IME setting
+
+- configuration  default input method set to English
+- install PDFtk  Zettlr
